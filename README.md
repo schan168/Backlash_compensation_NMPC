@@ -10,9 +10,3 @@ This repository contains MATLAB implementations and project artifacts for compar
 - `NMPC_RobotArm_Animation (1).mp4`
 - `MAE 506 Project report Team 12.docx.pdf`
 
-## Notes
-- Keep this `README.md` and `.gitignore` in the same root folder as the files above.
-- If you upload to GitHub, this README will show automatically on the repo home page.
-
-## Suggested Repo Name
-`mae506_lmpc_vs_nmpc`
